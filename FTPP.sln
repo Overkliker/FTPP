@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTPP", "FTPP\FTPP.csproj", "{CBB2620B-0D43-4867-97C1-4282E1E6996E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBB2620B-0D43-4867-97C1-4282E1E6996E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB2620B-0D43-4867-97C1-4282E1E6996E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB2620B-0D43-4867-97C1-4282E1E6996E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB2620B-0D43-4867-97C1-4282E1E6996E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03F89CD3-1F98-4840-AFD4-E3A27BFA43BE}
+	EndGlobalSection
+EndGlobal
